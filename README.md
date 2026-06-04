@@ -7,7 +7,7 @@ Welcome to my GitHub space. I am a cybersecurity analyst and technical builder f
 Instead of just reading theory, I build, break, and patch local target environments to deeply analyze logical flaws, access control failures, and modern web attack vectors.
 
 
-## 🛠️ Technical Stack & Tools
+##  Technical Stack & Tools
 
 * **API Security & Testing:** API Authorization Auditing, BOLA & BFLA Exploitation, OWASP API Security Top 10, Postman Collections.
 * **Security Tools & Recon:** Burp Suite, Nmap, Nikto, Metasploit Framework, Wireshark, OSINT.
