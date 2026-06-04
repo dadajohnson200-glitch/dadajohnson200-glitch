@@ -1,67 +1,56 @@
-Hi, I’m Dada Johnson 👋
+Hi, I’m Dada Johnson 
 
-🚀 Cybersecurity Analyst | API Security & Penetration Testing
+API Security & Penetration Testing Enthusiast
 
-I’m a cybersecurity analyst with a strong interest in offensive security, API security testing, and vulnerability research. I enjoy building hands-on lab environments to explore how applications, networks, and systems behave under different security scenarios. Through practical testing and continuous learning, I focus on understanding security weaknesses and how they can be identified and mitigated.
+I’m passionate about cybersecurity, with a particular interest in API security, web application security, and penetration testing. Most of my learning comes from hands-on practice, where I build lab environments, test applications, and explore how security vulnerabilities can be identified, exploited, and mitigated.
 
-I regularly share my projects, lab exercises, and technical findings on LinkedIn, documenting my journey as I continue to develop my skills and contribute to the cybersecurity community.
+Over time, I’ve worked on projects involving API authorization testing, vulnerability assessment, reconnaissance, and web application security. I enjoy breaking down security concepts through practical labs and documenting my findings as I continue to grow in the field.
 
+What I’m Currently Learning and Building
 
-🛠️ Technical Skills
-
-Operating Systems & Environments
-
-* Kali Linux
-* Docker
+* API Security Testing
+* OWASP API Security Top 10
+* BOLA (Broken Object Level Authorization)
+* BFLA (Broken Function Level Authorization)
+* Library REST API Testing with Postman
+* Web Application Security Testing
+* Vulnerability Assessment
+* OSINT and Reconnaissance
 * Linux Administration
 
-API Security
+Tools & Technologies
 
-* Postman
-* BOLA & BFLA Testing
-* OWASP API Security Top 10
-
-Security Tools
-
+* Kali Linux
 * Burp Suite
+* Postman
 * Nmap
 * Nikto
 * Metasploit
 * Wireshark
-* Keylogger
-  
-Core Competencies
+* Docker
 
-* API Security Testing
-* Web Application Penetration Testing
-* Vulnerability Assessment
-* Traffic Analysis
-* Network Reconnaissance
-* OSINT (Open-Source Intelligence)
-* Endpoint Security Assessment
+Areas of Interest
 
-⸻
+* API Security
+* Application Security
+* Penetration Testing
+* Vulnerability Research
+* Offensive Security
 
-📂 Featured Security Projects & Labs
+Training & Learning Platforms
 
-🔍 API Authorization Testing (BOLA Lab)
-Tested API authorization controls to determine whether users could access resources belonging to other accounts through improper object-level authorization checks.
+* Cybersecurity and Ethical Hacking – SABI Programmers
+* PortSwigger Web Security Academy
+* TryHackMe
 
-🎯 API Privilege Escalation Testing (BFLA Lab)
-Evaluated role-based access controls by assessing how API endpoints handled requests from users with different privilege levels and identifying weaknesses in authorization enforcement.
+Current Goal
 
-🛒 E-commerce API Testing Workflow
-Built and expanded Postman collections to test authentication flows, product management, cart operations, and validation logic within a simulated e-commerce environment.
+I’m focused on building practical experience in API security and penetration testing through hands-on projects, labs, and continuous learning. This GitHub profile serves as a place to document my work, share what I’m learning, and track my progress as I grow in cybersecurity.
 
-🌐 Network Scanning & Security Labs
-Performed network enumeration and vulnerability assessments using tools such as Nmap, Nikto, and Wireshark to better understand system exposure and security risks.
+Connect With Me
 
-🕵️‍♂️ OSINT & Reconnaissance Practice
-Conducted open-source intelligence gathering and reconnaissance exercises to identify publicly available information and assess an organization’s external exposure.
+* LinkedIn: linkedin.com/in/dada-johnson-09b2a33b1
+* GitHub: github.com/dadajohnson200-glitch
+* Email: dadajohnson200@gmail.com
 
-⸻
-
-📬 Connect With Me
-
-LinkedIn: linkedin.com/in/dada-johnson-09b2a33b1
-Email: dadajohnson200@gmail.com
+Thanks for stopping by.
